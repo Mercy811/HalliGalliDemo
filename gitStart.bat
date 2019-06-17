@@ -1,1 +1,0 @@
-start C:\Program" "Files\Git\git-bash.exe --cd=D:\cocos_workspace\HalliGalliDemo
