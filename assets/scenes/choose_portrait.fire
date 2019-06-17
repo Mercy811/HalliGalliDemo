@@ -2064,7 +2064,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "nextScene",
+    "_name": "togame",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -2110,8 +2110,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.845,
-      "y": 0.84,
+      "x": 0.6,
+      "y": 0.6,
       "z": 1
     },
     "_quat": {
@@ -2125,7 +2125,7 @@
     "_skewY": 0,
     "_is3DNode": false,
     "groupIndex": 0,
-    "_id": "6cmxm4n6VGhLJP68qh4eK0"
+    "_id": "c3esHTEUpGhaSNlUCkSK3k"
   },
   {
     "__type__": "cc.Sprite",
@@ -2139,7 +2139,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "5ca17354-3207-4ac1-8381-43423beedd62"
+      "__uuid__": "eff5a4de-d7a3-4cc9-a184-7b74a1bedb3b"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -2153,7 +2153,7 @@
     "_fillRange": 0,
     "_isTrimmedMode": true,
     "_atlas": null,
-    "_id": "a6Qy0h6/JIYoTT1H77oYFu"
+    "_id": "16yyFUX+1AOKxz5veMKhFr"
   },
   {
     "__type__": "cc.Button",
@@ -2225,7 +2225,7 @@
     "_N$target": {
       "__id__": 47
     },
-    "_id": "fbkmMOYJdNO4FTj6UE1cz/"
+    "_id": "ceT6OGqvJPbI+6tI6m2Vvm"
   },
   {
     "__type__": "cc.ClickEvent",
@@ -2245,6 +2245,6 @@
       "__id__": 47
     },
     "_enabled": true,
-    "_id": "51Buq74kNJYqAJAkuioP2/"
+    "_id": "e5ofzz6PZGfqp04ozxSCJp"
   }
 ]
